@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<records>
+		<record>
+			<title>Got to Be There</title>
+			<artist>Michael Jackson</artist>
+			<genre>pop</genre>
+			<year>1971</year>
+		</record>
+		<record>
+			<artist>Music  Me</artist>
+			<genre></genre>
+			<year/>
+		</record>
+		<record>
+			<title>x</title>
+			<artist>Music  Me</artist>
+			<genre></genre>
+			<year/>
+		</record>
+	</records>
+</root>
